@@ -1,11 +1,10 @@
 # pasc500-compiler-in-C-language
-Flex execution
 
-flex compiler.l    # This command generates lex.yy.c
-gcc lex.yy.c -lfl  # This command builds lex.yy.c to an executable
-./a.exe Tests/test.cpp # WINDOWS: Execute Lexical analyzer on Tests/test.cpp
-./a Tests/test.cpp     # LINUX: Execute Lexical analyzer on Tests/test.cpp
+This is my first major project for Compilers in Computer Science. I would like to give my thanks to the other 2 fellow students who helped complete this.
 
-Bison execution
-make                             # Automatically build all necessary files
-./bison <Directory/TestFile.cpp> # Execute Lexical Analysis on the testfile.
+1) Vouklis Marios Nikolaos.
+
+2) Kozanis Konstantinos.
+
+3) Katounis Emmanouil Ioannis (me).
+

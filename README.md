@@ -9,6 +9,6 @@ This is my first major project for Compilers in Computer Science. I would like t
 3) Katounis Emmanouil Ioannis (me).
 
 
-Compile: flex compiler.l
-          gcc lex.yy.c -lm
-          ./a.out name_test.p
+Compile: 1) flex compiler.l
+         2) gcc lex.yy.c -lm
+         3) ./a.out name_test.p

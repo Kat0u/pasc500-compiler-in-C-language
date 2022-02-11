@@ -1,4 +1,4 @@
-# pasc500-compiler-in-C-language
+# PASC500 Compiler in C Language
 
 This is my first major project for Compilers in Computer Science. I would like to give my thanks to the other 2 fellow students (besties) who helped me complete this.
 
